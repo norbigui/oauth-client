@@ -1,13 +1,12 @@
-# rclone backups — personal use
+# Personal OAuth client
 
-This is a private OAuth client used by one person to copy backup files
-from their own computer to their own Google Drive with rclone
-(https://rclone.org). It is not offered to anyone else.
+A private OAuth client used by one person for a desktop utility that
+works with that person's own Google account. It is not offered to or
+used by anyone else.
 
 ## Privacy policy
 
-The client runs only on the owner's computer. It reads and writes files
-in the owner's own Google Drive and nothing else. No data is sent to,
-stored by, or shared with any third party. No analytics, no logging
-outside the owner's machine. Access can be revoked at any time at
+The client runs only on the owner's computer and accesses only the
+owner's own account data. No data is collected, stored, shared with,
+or sent to any third party. Access can be revoked at any time at
 https://myaccount.google.com/permissions.
